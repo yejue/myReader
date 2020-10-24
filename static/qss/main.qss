@@ -1,0 +1,29 @@
+
+QGroupBox{
+    background-color: #eaeaea;
+}
+#groupBox_2{
+    background-color: #eaeaea;
+    border-bottom: none;
+}
+#frame_content{
+    border-top: none;
+}
+
+/*最小化和关闭窗口*/
+#pushButton_small{
+    background-color: #eaeaea;
+    border: none;
+}
+#pushButton_close{
+    background-color: #eaeaea;
+    border: none;
+}
+#pushButton_small:hover{
+    color: #ffffff;
+    background: #006a9d;
+}
+#pushButton_close:hover{
+    color: #ffffff;
+    background: #ff1439;
+}
