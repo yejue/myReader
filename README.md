@@ -11,7 +11,7 @@ So, I decide to imitate the structure of Django to do the same work on PyQt5 ...
 # 快速使用
 所有的窗口集合在 main_controller
 
-在allocating中继承了所有的对象，运行allocating即可
+在allocating中继承了所有的对象，运行allocating即可启动
 
 
 
