@@ -4,7 +4,7 @@
 
 # An ordinary MVC model for PyQt5
 
-First time to join a app's develop project, it's not easy to write down the first code for me.
+It was not easy for me to get involved in software development for the first time
 So, I decide to imitate the structure of Django to do the same work on PyQt5 ...It's just a little bit of my thinking, but it works.
 
 
