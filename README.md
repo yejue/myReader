@@ -1,5 +1,5 @@
 # myReader
-一个PyQt5 简陋的MVC开发规划示例
+一个PyQt5 简单但还行的MVC开发规划示例
 
 
 # An ordinary MVC model for PyQt5
